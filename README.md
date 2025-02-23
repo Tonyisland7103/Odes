@@ -33,5 +33,3 @@ By using The Chosen One  ("bot"),  you agree to these Terms of Service ("ToS"). 
 6. Contact
 
 For questions, issues, or requests, contact the bot owner via [Discord or other support method].
-
-Official Server:
